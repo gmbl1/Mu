@@ -3,7 +3,6 @@
   "description": "Simple shitty music",
   "version": "1.0.0",
       "node": "12.13.0"
-  "main": "MusicBot.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Abady321x123/simple-music.git"
