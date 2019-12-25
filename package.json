@@ -3,17 +3,7 @@
   "description": "Simple shitty music",
   "version": "1.0.0",
       "node": "12.13.0"
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Abady321x123/simple-music.git"
-  },
-  "author": "Abady",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Abady321x123/simple-music/issues"
-  },
-  "homepage": "https://github.com/Abady321x123/simple-music#readme",
-  "dependencies": {
+    "dependencies": {
     "get": "1.4.0",
     "hero": "^0.0.1",
     "steam-search": "^1.0.0",
