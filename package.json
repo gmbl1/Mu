@@ -1,8 +1,11 @@
 {
-  "name": "simple-music",
-  "description": "Simple shitty music",
+  "name": "myapp",
+  "description": "a really cool app",
   "version": "1.0.0",
-      "node": "12.13.0"
+  "engines": {
+    "node": "12.13.0"
+  }
+}
     "dependencies": {
     "get": "1.4.0",
     "hero": "^0.0.1",
